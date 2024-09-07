@@ -38,7 +38,7 @@ const GlobalStyle = createGlobalStyle`
     h4{
         font-weight: bold;
         font-family: 'Noto Sans NKo Unjoined', sans-serif;
-                                                
+        font-size:2rem;
     }
     span{
         color:#30bee1;
